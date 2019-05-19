@@ -49,7 +49,7 @@
   </build>
   <distributionManagement>
    <snapshotRepository>
-      <id>nexus-snapshots</id>
+      <id>simple-java-project</id>
       <url>http://localhost:8081/repository/simple-java-project/</url>
    </snapshotRepository>
 </distributionManagement>
